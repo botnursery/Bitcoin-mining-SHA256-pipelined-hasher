@@ -10,4 +10,4 @@ The project is implemented in the Quartus development environment.
 - [Testbench for one hasher](https://github.com/botnursery/METRICSgit/tree/master/testbenches)
 - [Pitcher for tasks (nonces) distribution and parallelization of calculations] TBU
 
-![Project layout](FPGA_miner_hasher.png)
+![Project layout](project-layout.png)
