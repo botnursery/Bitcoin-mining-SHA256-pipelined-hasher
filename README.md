@@ -11,3 +11,5 @@ The project is implemented in the Quartus development environment.
 - [Pitcher for tasks (nonces) distribution and parallelization of calculations] TBU
 
 ![Project layout](project-layout.png)
+![SHA256 hasher](https://github.com/botnursery/METRICSgit/blob/master/sha2/duct-compare.jpg)
+![Signal plots](https://github.com/botnursery/METRICSgit/blob/master/sha2/duct_v6-b.jpg)
